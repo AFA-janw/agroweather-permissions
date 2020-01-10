@@ -1,2 +1,2 @@
-"NSLocationWhenInUseUsageDescription" = "Pour vous fournir des données de précipitations précises et locales, vous devez donner à l'application la permission de détecter votre position.";
-"NSLocationAlwaysUsageDescription" = "Pour vous fournir des données de précipitations précises et locales, vous devez donner à l'application la permission de détecter votre position.";
+"NSLocationWhenInUseUsageDescription" = "Pour vous fournir des données météorologiques précises et locales, vous devez donner à l'application la permission de détecter votre position.";
+"NSLocationAlwaysUsageDescription" = "Pour vous fournir données météorologiques précises et locales, vous devez donner à l'application la permission de détecter votre position.";

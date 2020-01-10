@@ -11,6 +11,7 @@
 		</config-file>
 		<resource-file src="src/ios/nl.lproj" />
 		<resource-file src="src/ios/en.lproj" />
+		<resource-file src="src/ios/de.lproj" />
 		<resource-file src="src/ios/fr.lproj" />
 	</platform>
 </plugin>
